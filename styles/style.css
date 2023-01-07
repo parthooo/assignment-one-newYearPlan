@@ -76,32 +76,32 @@ header {
 
 /* My failures section css */
 
-.failour-list {
+.previous-list {
   display: flex;
   align-items: center;
   gap: 100px;
   margin-top: 100px;
 }
 
-.failor-list-description {
+.previous-list-description {
   color: #444343;
   font-weight: 400;
   font-size: 16px;
   margin: 20px 0px;
 }
 
-.failor-list-items {
+.previous-list-items {
   color: #444343;
   font-weight: 400;
   font-size: 16px;
 }
 
-.failor-list-items li {
+.previous-list-items li {
   list-style: none;
   display: flex;
 }
 
-.failor-list-items li img {
+.previous-list-items li img {
   margin-right: 5px;
 }
 
@@ -175,9 +175,6 @@ footer {
   gap: 200px;
 }
 
-.contact {
-}
-
 .footer-title {
   font-weight: 700;
   font-size: 45px;
@@ -200,9 +197,6 @@ footer {
 .subscribe {
   font-weight: 600;
   font-size: 25px;
-}
-
-.subscribe-title {
 }
 
 .subscribe-input {
